@@ -26,7 +26,6 @@
 | :--- | :--- | :--- |
 | **MODIF-AI** | AI-powered 3D car modification visualizer with component segmentation. | `Python`, `FastAPI`, `Flutter`, `PyTorch` |
 | **Dental3DScanner** | 3D dental scanning and segmentation pipeline utilizing CUDA acceleration. | `Python`, `PyTorch`, `Open3D` |
-| **Kisaca** | Open-source, high-performance URL shortener web service. | `FastAPI`, `SQLModel`, `PostgreSQL` |
 
 ---
 
