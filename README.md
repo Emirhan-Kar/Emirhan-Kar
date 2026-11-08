@@ -3,11 +3,11 @@
   <h1>Hi 👋, I'm Emirhan Kar</h1>
   <p><b>Computer Engineering Student at Konya Technical University | Full-Stack Developer | Computer Vision & 3D Reconstruction</b></p>
   
-  <p>
-    <a href="https://linkedin.com/in/emirhan-kar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:emirhankar5434@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://leetcode.com/xjgypjplzx"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
-  </p>
+<p>
+  <a href="https://www.linkedin.com/in/emirhankar1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:emirhankar5434@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://emirhan-kar.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
+</p>
 </div>
 
 ---
