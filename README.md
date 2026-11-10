@@ -33,9 +33,8 @@ I design and build **end-to-end software systems** that bridge **3D Computer Vis
 | Project | Architecture & Core Focus | Tech Stack |
 | :--- | :--- | :--- |
 | **[MODIF-AI](https://github.com/eemirhankar54)** <br> *Co-Founder & Lead Dev* | **3D Vehicle Modification Visualizer:** End-to-end mobile platform integrating monocular depth estimation, automated vehicle part segmentation, and real-time 3D mesh manipulation. | `Python` `FastAPI` `Flutter` `PyTorch` `Open3D` `PostgreSQL` |
-| **Intraoral 3D Dental Scanner** | **3D Point Cloud Pipeline:** High-precision dental surface reconstruction system featuring custom optical capture processing, ICP point cloud stitching, and PointNet-based tooth segmentation with CUDA acceleration. | `Python` `PyTorch` `Open3D` `CUDA` `PointNet` |
-| **CampusShare** | **University Marketplace & Rental Platform:** Full-stack mobile application with real-time messaging, user verification, and relational inventory management. | `Flutter` `FastAPI` `PostgreSQL` `Firebase` |
-| **KısaCa** | **High-Throughput Asynchronous URL Shortener:** Distributed backend service handling concurrent redirects, caching layers, and background analytics workers. | `FastAPI` `SQLModel` `PostgreSQL` `Redis` `Celery` `Alembic` |
+| **Dental Scanner** | **3D Point Cloud Pipeline:** High-precision dental surface reconstruction system featuring custom optical capture processing, ICP point cloud stitching, and PointNet-based tooth segmentation with CUDA acceleration. | `Python` `PyTorch` `Open3D` `CUDA` `PointNet` |
+
 
 ---
 
@@ -80,10 +79,3 @@ I design and build **end-to-end software systems** that bridge **3D Computer Vis
 </p>
 
 ---
-
-### 🐍 Contribution Activity
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eemirhankar54/eemirhankar54/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eemirhankar54/eemirhankar54/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="
