@@ -32,7 +32,8 @@ I design and build **end-to-end software systems** that bridge **3D Computer Vis
 
 | Project | Architecture & Core Focus | Tech Stack |
 | :--- | :--- | :--- |
-| **[AI_Powered_3D_Vehicle_Reconstruction_and_Component_Segmentation_Platform](https://github.com/Emirhan-Kar/AI_Powered_3D_Vehicle_Reconstruction_and_Component_Segmentation_Platform.git)** <br> *Co-Founder & Lead Dev* | **3D Vehicle Modification Visualizer:** End-to-end mobile platform integrating monocular depth estimation, automated vehicle part segmentation, and real-time 3D mesh manipulation. | `Python` `FastAPI` `Flutter` `PyTorch` `Open3D` `PostgreSQL` |
+| **[AI_Powered_3D_Vehicle_Reconstruction
+    and_Component_Segmentation_Platform](https://github.com/Emirhan-Kar/AI_Powered_3D_Vehicle_Reconstruction_and_Component_Segmentation_Platform.git)** <br> *Co-Founder & Lead Dev* | **3D Vehicle Modification Visualizer:** End-to-end mobile platform integrating monocular depth estimation, automated vehicle part segmentation, and real-time 3D mesh manipulation. | `Python` `FastAPI` `Flutter` `PyTorch` `Open3D` `PostgreSQL` |
 | **[Dental Scanner]()** | **3D Point Cloud Pipeline:** High-precision dental surface reconstruction system featuring custom optical capture processing, ICP point cloud stitching, and PointNet-based tooth segmentation with CUDA acceleration. | `Python` `PyTorch` `Open3D` `CUDA` `PointNet` |
 
 
